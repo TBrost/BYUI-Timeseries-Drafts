@@ -305,7 +305,7 @@ usd1_exchange_updated |>
     plot.subtitle = element_text(hjust = 0.5)
   )
 
-# Delete these commands..........
+# Delete these commands.........
 # Used to make a poster, but they are meaningless
 # usd1_exchange_updated |>
 #   group_by(currency) %>%
